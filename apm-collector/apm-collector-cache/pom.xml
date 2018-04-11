@@ -31,6 +31,7 @@
     <modules>
         <module>collector-cache-define</module>
         <module>collector-cache-guava-provider</module>
+        <module>collector-cache-caffeine-provider</module>
     </modules>
 
     <dependencies>
